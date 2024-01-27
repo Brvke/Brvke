@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brvke
 - 👀 I’m interested in software engineering programs
-- 🌱 I’m currently learning c programming
-- 💞️ I’m looking to collaborate on c language at the moment
+- 🌱 I’m currently learning c and python programming language
+- 💞️ I’m looking to collaborate on c and python language at the moment
 - 📫 email: tayebruke@gmail.com
 
 <!---
